@@ -33,7 +33,8 @@ echo ""
 sleep 2
 echo -e "$blue Giving Finishing Touch Please Wait"
 wget https://git.io/fjzh2
-mv fjzh2 $PREFIX/bin/
+mv fjzh2 $PREFIX/bin/hiddeneye
+chmod +x $PREFUX/bin/hiddeneye
 echo ""
 echo ""
 echo -e "$red Setup Complete"
