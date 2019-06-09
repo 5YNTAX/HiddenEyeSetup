@@ -32,7 +32,7 @@ echo ""
 echo ""
 sleep 2
 echo -e "$blue Giving Finishing Touch Please Wait"
-wget http://git.io/hidden-eye
+wget https://git.io/fjzh2
 mv hidden-eye $PREFIX/bin/
 echo ""
 echo ""
